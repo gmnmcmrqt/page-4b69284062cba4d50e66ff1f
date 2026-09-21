@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3154efc3acd72d2fa1afc50c",
+  "owner": "gmnmcmrqt",
+  "repo": "page-4b69284062cba4d50e66ff1f",
+  "title": "蜜桃(XiXicats)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b69284062cba4d50e66ff1f",
+      "a": "蜜桃(XiXicats)",
+      "b": "2027官方最新地址导航",
+      "entity": "蜜桃(XiXicats)",
+      "brand": "蜜桃(XiXicats)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8fbe271a611a01bb61f9f49b1a0cc2ff8cfe033d6e67d9101fb00813d2034a8f",
+      "content": {
+        "primary_entity": "蜜桃(XiXicats)",
+        "keyword1": "蜜桃(XiXicats)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，Windows、macOS、Android、iOS 与路由器各有对应版本，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端文档完成订阅导入。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰指引。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线；团队版每月 1000GB 流量、支持 20 台设备。按年付更划算，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三项要点帮您快速判断。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1–3 台设备轻度使用，每月 100GB 流量满足日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线对游戏加速更友好，适合多设备家庭。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由，适合小型团队统一管理。",
+          "AI_FEATURE_TITLE_1": "套餐按需搭配",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成连接准备。",
+          "AI_GUIDE_TITLE": "三步使用指引",
+          "AI_HERO_INTRO": "蜜桃(XiXicats)面向海外加速场景，提供基础版、旗舰版与团队版三档套餐，覆盖不同设备数量与流量需求。按年付可节省费用，客户端覆盖常见桌面与移动系统。",
+          "AI_HERO_SUBTITLE": "蜜桃加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付与年付灵活切换更省心",
+          "AI_HIGHLIGHT_3": "多平台客户端按设备选择安装",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "对照所选套餐的设备数量与系统要求，确认常用设备是否在支持范围内。",
+          "AI_STEP_TEXT_3": "打开对应客户端，参照其订阅配置文档导入订阅信息，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "蜜桃多设备加速方案",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台。手机、电脑、平板或路由器同时在线都计入设备数，超出会提示无法连接，升级套餐后立即生效。",
+          "AI_FAQ_ANSWER_2": "年付比月付更省。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，折算下来每月分别约 ¥12.5、¥29、¥70。流量需求稳定时年付比较合适。",
+          "AI_FAQ_ANSWER_3": "打开对应客户端的订阅配置页面，粘贴订阅链接后更新一次，节点列表会自动载入。切换线路时在客户端内选择目标节点即可，无需重复导入。",
+          "AI_FAQ_ANSWER_4": "基础版解锁基础流媒体，旗舰版和团队版支持全节点原生流媒体解锁。若常用 4K 或需要更稳的播放体验，旗舰版带 IPLC 专线会更从容。",
+          "AI_FAQ_ANSWER_5": "升级到更高档位时，客户端内重新拉取订阅即可看到新节点。降级或续费按购买周期结算，具体额度以套餐页面展示为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "蜜桃(XiXicats) 套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何在客户端里导入？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁和游戏加速选哪档套餐？",
+          "AI_FAQ_QUESTION_5": "更换套餐后需要重新配置吗？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yogobuy.cn",
+    "host": "yogobuy.cn"
+  },
+  "file_hashes": {
+    "index.html": "be1febd4a7dc9a3ed82040ef885dc38623633f4f38fdf564a5ca3a02a29a4901",
+    "sitemap.xml": "1c47343407144322bcb2aad914ef93a492cd536c200c88b91e8f832ef8fc260e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d71aa974a453fdc7f3b8d699c8e4f33133d8365f59ee85bfb8be36c9befc031b",
+    "robots.txt": "080df67f46a9b3789e004c29e12672edeb0ad52ef96ac8cf62f8e7ea07180609",
+    "a256d14e5d828bd4a9e0b18ae3abcc25.txt": "ea0b7307d6af20abfcee0412a3cd7f109c4e8c1ca366e4877bd9b4fb19746b3f"
+  },
+  "revision": "0acd2776f9f88e1c0a77afbdb3107dc3b3970969396415662324f03dc3395d10"
+}
